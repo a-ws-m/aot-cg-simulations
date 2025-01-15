@@ -1,0 +1,10 @@
+; Include forcefield parameters
+#include "./martini.ff/forcefield.itp"
+#include "./martini.ff/martini_v3.0.0_solvents_v1.itp"
+#include "./martini.ff/martini_v3.0.0_ions_v1.itp"
+#include "{{ cookiecutter.topology_name }}.itp"
+
+[ system ]
+Self-assembly
+
+[ molecules ]

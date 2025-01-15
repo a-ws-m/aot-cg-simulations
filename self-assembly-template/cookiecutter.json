@@ -1,0 +1,5 @@
+{
+    "topology_name": "",
+    "project_slug": "{{cookiecutter.topology_name.lower()}}-sa",
+    "friendly_top_name": "{{cookiecutter.topology_name.replace('-', ' ').replace('_', ' ').title().replace(' ', '')}}"
+}
