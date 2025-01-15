@@ -1,5 +1,5 @@
-Bilayer simulations
-===================
+Self-assembly (dilute isotropic phase)
+======================================
 
 After using cookiecutter to make a copy of this template, copy in the topology
 (.itp) and structure (.gro) files for the model you want to use. Next, run
